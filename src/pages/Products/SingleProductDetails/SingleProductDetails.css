@@ -1,0 +1,24 @@
+.bg-detail-body {
+    background: #2c3e50;
+    background: linear-gradient(to left, #1570ac71, #278d9454);
+}
+
+.bg-main {
+    background-color: #4b6a91;
+}
+
+.bg-detail-heading {
+    background: #2c3e50;
+    background: linear-gradient(to right, #115e92, #6384a7);
+
+}
+
+.bg-overview {
+    background: linear-gradient(to left, #3c8fadde, #223575d0);
+
+}
+
+.bg-features {
+    background: #228ea7c7;
+
+}

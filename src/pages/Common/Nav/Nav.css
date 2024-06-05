@@ -1,0 +1,11 @@
+.nav-bg {
+    background-image: linear-gradient(to right, rgb(6, 6, 61), rgb(15, 107, 143), rgb(14, 77, 102));
+}
+
+.active {
+    background-color: rgb(6, 42, 95);
+    padding: 7px 15px;
+    border-radius: 5px;
+    font-weight: bold;
+    color: #ffffff;
+}
